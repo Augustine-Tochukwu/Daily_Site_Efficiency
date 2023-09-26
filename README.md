@@ -1,8 +1,7 @@
 # Daily_Site_Efficiency
 Analyze datasets in an ecommerce firm with the main objective of Computing daily site-efficiency of each site 
 
-the main objective is to 
-Computing daily site-efficiency of each site with respect to the following fields
+the main objective is to Compute daily site-efficiency of each site with respect to the following fields
 
 # Arrived 	Number of arrived shipments (daily)
 
